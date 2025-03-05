@@ -1,4 +1,13 @@
+# Sanket Pathak
+* University of Massachusetts, Amherst
+* I'm a data scientist with expertise in AI, machine learning and statistical analysis. Skilled in developing intelligent solutions across multiple domains
+* Currently I am a graduate with 3+ years of experience
 
+* University of Massachusetts, Amherst
+* Masters in Business Analytics
+
+* University of Stirling
+* Masters in Big Data
 
 # [Project 1: Human Activity Recognition](https://github.com/SanketPathak7/Human-Activity-Recognition)
 * Developed a Human activity Recognition model, done on data collected using Gyroscope and Accelerometer by using machine learning and deep learning techniques
