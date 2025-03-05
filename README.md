@@ -1,7 +1,8 @@
 # Sanket Pathak
-* University of Massachusetts, Amherst
-* I'm a data scientist with expertise in AI, machine learning and statistical analysis. Skilled in developing intelligent solutions across multiple domains
-* Currently I am a graduate with 3+ years of experience
+## University of Massachusetts, Amherst
+
+> I'm a data scientist with expertise in AI, machine learning and statistical analysis. Skilled in developing intelligent solutions across multiple domains
+> Currently, I am a graduate with 3+ years of experience
 
 * University of Massachusetts, Amherst
 * Masters in Business Analytics
